@@ -151,8 +151,8 @@
       <dict>
         <key>comment</key>
         <string>.style .kt</string>
-        <key>fontStyle</key>
-        <string>italic</string>
+        <!-- <key>fontStyle</key> -->
+        <!-- <string>italic</string> -->
         <key>foreground</key>
         <string>#333041</string>
         <!-- <string>#74746b</string> -->
@@ -314,8 +314,8 @@
       <dict>
         <key>comment</key>
         <string>.style .nv, .style .v[cgi]</string>
-        <key>fontStyle</key>
-        <string>italic</string>
+        <!-- <key>fontStyle</key> -->
+        <!-- <string>italic</string> -->
         <key>foreground</key>
         <string>#008080</string>
       </dict>
@@ -381,8 +381,8 @@
       <dict>
         <key>foreground</key>
         <string>#9596a4</string>
-        <key>fontStyle</key>
-        <string>italic</string>
+        <!-- <key>fontStyle</key> -->
+        <!-- <string>italic</string> -->
       </dict>
     </dict>
     <dict>
@@ -394,8 +394,8 @@
       <dict>
         <key>foreground</key>
         <string>#454275</string>
-        <key>fontStyle</key>
-        <string>italic</string>
+        <!-- <key>fontStyle</key> -->
+        <!-- <string>italic</string> -->
       </dict>
     </dict>
     <dict>
@@ -420,8 +420,8 @@
       <dict>
         <key>comment</key>
         <string>.syntax .ge</string>
-        <key>fontStyle</key>
-        <string>italic</string>
+        <!-- <key>fontStyle</key> -->
+        <!-- <string>italic</string> -->
       </dict>
     </dict>
     <dict>
